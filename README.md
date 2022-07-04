@@ -1,6 +1,8 @@
 # SQL - Employee Database
 ## A Mystery in Two Parts
 
+![DBstock](/images/DBstock.jpeg)
+
 ### Background
 
 It is a beautiful spring day, and it is two weeks since commencing work as a new data engineer at Pewlett Hackard. My first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
@@ -56,13 +58,13 @@ Imported each CSV file into the corresponding SQL table.
 
 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
 
-![SQLsch6](/images/SQLsch6.PNG)
+![SQLda6](/images/SQLda6.PNG)
 
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
-![SQLsch7](/images/SQLsch7.PNG)
+![SQLda7](/images/SQLda7.PNG)
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-![SQLsch8](/images/SQLsch8.PNG)
+![SQLda8](/images/SQLda8.PNG)
 
