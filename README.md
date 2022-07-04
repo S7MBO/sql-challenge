@@ -1,7 +1,7 @@
 # SQL - Employee Database
 ## A Mystery in Two Parts
 
-![DBstock](/images/DBstock.jpeg)
+![DBstock](/images/DBstock.png)
 
 ### Background
 
